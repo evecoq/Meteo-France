@@ -19,7 +19,7 @@ now = dt.datetime.now()
 #Recherche méteo
 printMessage("Recherche méteo dans votre ville")
 search = input("Nom de ville ou code postal? (v/c)\n")
-API_key = '0caed253ae533fff1bcbec7336e607e9'
+API_key = 'api_key'
 
 #Par ville
 if search == "v":
