@@ -1,6 +1,5 @@
 import requests, psycopg2
 import pandas as pd
-# from tools import flattenJson
 import json
 import configuration
 
